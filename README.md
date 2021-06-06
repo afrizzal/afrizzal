@@ -1,4 +1,4 @@
-### Hi there 👋
+![Hey there, I'm Aff. I'm a Digital MArketers, a Web Developer enthusiast. Check out my work](https://github.com/afrizzal/afrizzal/blob/main/bio.gif)
 
 <!--
 **afrizzal/afrizzal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
